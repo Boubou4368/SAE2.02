@@ -1,0 +1,12 @@
+;extern;fr.wikipedia.org/wiki/Institut_universitaire_de_technologie;fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal;fr.wikipedia.org/wiki/Portail:Accueil;fr.wikipedia.org/wiki/Sp%C3%A9cial:Page_au_hasard;fr.wikipedia.org/wiki/Wikip%C3%A9dia:Contact;fr.wikipedia.org/wiki/Aide:D%C3%A9buter;fr.wikipedia.org/wiki/Aide:Accueil;fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9;fr.wikipedia.org/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales;fr.wikipedia.org/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes
+extern;0;1;1;1;1;1;1;1;1;1;1
+fr.wikipedia.org/wiki/Institut_universitaire_de_technologie;0;1;0;0;0;0;0;0;0;0;0
+fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal;0;1;1;1;1;1;1;1;1;1;1
+fr.wikipedia.org/wiki/Portail:Accueil;0;1;1;1;1;1;1;1;1;1;1
+fr.wikipedia.org/wiki/Sp%C3%A9cial:Page_au_hasard;0;1;1;1;1;1;1;1;1;1;1
+fr.wikipedia.org/wiki/Wikip%C3%A9dia:Contact;0;1;1;1;1;1;1;1;1;1;1
+fr.wikipedia.org/wiki/Aide:D%C3%A9buter;0;1;1;1;1;1;1;1;1;1;1
+fr.wikipedia.org/wiki/Aide:Accueil;0;1;1;1;1;1;1;1;1;1;1
+fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9;0;1;1;1;1;1;1;1;1;1;1
+fr.wikipedia.org/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales;0;1;1;1;1;1;1;1;1;1;1
+fr.wikipedia.org/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes;0;1;1;1;1;1;1;1;1;1;1
