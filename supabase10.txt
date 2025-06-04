@@ -1,0 +1,12 @@
+;extern;supabase.com;supabase.com/enterprise;supabase.com/pricing;supabase.com/docs;supabase.com/blog;supabase.com/dashboard;supabase.com/state-of-startups;supabase.com/contact/sales;supabase.com/database;supabase.com/auth
+extern;0;1;1;1;1;1;0;1;1;1;1
+supabase.com;0;1;1;1;0;1;0;1;1;1;1
+supabase.com/enterprise;0;1;1;1;0;1;0;1;1;1;1
+supabase.com/pricing;0;1;1;1;0;1;0;1;1;1;1
+supabase.com/docs;0;1;1;1;1;1;0;1;1;1;1
+supabase.com/blog;0;1;1;1;0;1;0;1;1;1;1
+supabase.com/dashboard;0;1;1;1;0;1;0;1;1;1;1
+supabase.com/state-of-startups;0;1;0;0;0;0;0;0;0;0;0
+supabase.com/contact/sales;0;1;0;1;0;0;0;0;0;0;1
+supabase.com/database;0;1;1;1;0;1;0;1;1;1;1
+supabase.com/auth;0;1;1;1;0;1;0;1;1;1;1
